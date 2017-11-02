@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SimpleRPC.iml" filepath="$PROJECT_DIR$/.idea/SimpleRPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplerpc/simplerpc.iml" filepath="$PROJECT_DIR$/simplerpc/simplerpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplerpc-api/simplerpc-api.iml" filepath="$PROJECT_DIR$/simplerpc-api/simplerpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplerpc-client/simplerpc-client.iml" filepath="$PROJECT_DIR$/simplerpc-client/simplerpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplerpc-server/simplerpc-server.iml" filepath="$PROJECT_DIR$/simplerpc-server/simplerpc-server.iml" />
+    </modules>
+  </component>
+</project>
